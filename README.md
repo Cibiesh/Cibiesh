@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cibiesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in frontend and backend developing 
+- 🌱 I’m currently learning B.tech Csbs
 
 
 <!---
