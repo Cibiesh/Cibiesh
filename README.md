@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cibiesh
-- 👀 I’m interested in frontend and backend developing 
+- 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning B.tech Csbs
 
 
