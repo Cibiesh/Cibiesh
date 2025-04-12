@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cibiesh
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning B.tech Csbs
+- 🌱 I’m currently graduating B.tech Csbs
 
 
 <!---
